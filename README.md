@@ -42,7 +42,7 @@ Few Popular packages used are as follows:
 - shared_preferences: ^2.2.2
 
 
--Feel Free to put any suggestions/improvements.- \ \ \
+-Feel Free to put any suggestions/improvements.- <br> <br>
 
 ## Thank you for you valuable time. 🙏🏻
 
