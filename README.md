@@ -1,16 +1,48 @@
 # a_music
 
-A new Flutter project.
+A music application built with flutter framework using Dart. 
 
-## Getting Started
+## Functionality Contains 🛠️
+- Authentication page ✅
+- Songs list page ✅
+- Song details page ✅
+- Music Player ✅
+- Favourite songs (Local + Remote storage) ✅
 
-This project is a starting point for a Flutter application.
+# Test included ⚙️
+- Unit Testing ✨
+- Integration Testing ✨
+- Widget/UI Testing
 
-A few resources to get you started if this is your first Flutter project:
+# Architecture Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### __Clean Architecture: Have followed the clean architecture with following components__
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- UI/Views Presentation Layer
+- Controllers / Presentation Layer
+- Use cases / Domain Layer
+- Repositories / Data Layer
+- Api Service / Data Layer
+
+# State Management: 
+Have used GetX due to the scope of the project. \
+ALTs: Flutter Bloc: This can be a better alternative for large scale project. As it provides ample of ways to comminucate and manage the state within flutter widget.
+
+# Packages Used:
+Few Popular packages used are as follows: 
+
+- firebase_auth: 4.14.0
+- firebase_core: 2.24.2
+- rxdart: 0.27.3
+- google_fonts: 4.0.4
+- lottie: 2.6.0
+- get: 4.6.2
+- http: 0.13.5
+- cloud_firestore: 4.14.0
+- shared_preferences: ^2.2.2
+
+
+-Feel Free to put any suggestions/improvements.- \ \ \
+
+## Thank you for you valuable time. 🙏🏻
+
