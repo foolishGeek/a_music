@@ -12,7 +12,8 @@ A music application built with flutter framework using Dart.
 # Test included ⚙️
 - Unit Testing ✨
 - Integration Testing ✨
-- Widget/UI Testing
+- Widget/UI Testing ✨
+- Test Coverage using lcov ✨
 
 # Architecture Used
 
