@@ -15,7 +15,7 @@ A music application built with flutter framework using Dart.
 - Widget/UI Testing ✨
 - Test Coverage using lcov ✨
 
-# Architecture Used
+# Architecture Used 🏗️
 
 ### __Clean Architecture: Have followed the clean architecture with following components__
 
@@ -25,11 +25,11 @@ A music application built with flutter framework using Dart.
 - Repositories / Data Layer
 - Api Service / Data Layer
 
-# State Management: 
+# State Management: 🔄
 Have used GetX due to the scope of the project. \
 ALTs: Flutter Bloc: This can be a better alternative for large scale project. As it provides ample of ways to comminucate and manage the state within flutter widget.
 
-# Packages Used:
+# Packages Used: 📦
 Few Popular packages used are as follows: 
 
 - firebase_auth: 4.14.0
